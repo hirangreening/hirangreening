@@ -1,5 +1,5 @@
-# 👋 Kia ora, I'm Hiran
+# Kia ora, ko Hiran ahau
 
-🎓 Computer Science graduate, University of Waikato
+Computer Science graduate, University of Waikato
 
-📁 Portfolio of my personal work and projects.
+Here is a portfolio of my personal work and projects.
